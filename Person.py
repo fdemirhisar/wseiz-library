@@ -1,1 +1,0 @@
-'class Person:\n    def __init__(self, name, person_id):\n        self.name = name\n        self.person_id = person_id\n    \n    def __str__(self):\n        return "Person: " + self.name + " (ID: " + self.person_id + ")"' 
